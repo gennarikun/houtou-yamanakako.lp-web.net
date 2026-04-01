@@ -11,6 +11,8 @@
 							<a href="/menu/">メニュー・料金</a></li>
 						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
 								href="/dantai/">団体ランチ</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+								href="/izakaya/">宴会・貸切</a></li>
 						<li id="menu-item-2024"
 							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2024"><a
 								href="/voice/">お客様の声・感想</a></li>
@@ -63,6 +65,8 @@
 				</li>
 				<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
 						href="/dantai/">団体ランチ</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+						href="/izakaya/">宴会・貸切</a></li>
 				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2024"><a
 						href="/voice/">お客様の声・感想</a></li>
 				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2025"><a

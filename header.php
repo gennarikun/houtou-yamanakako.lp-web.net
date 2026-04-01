@@ -29,11 +29,13 @@
 										href="/omiyage/">お食事なし麺作り体験メニュー解説</a></li>
 								<li id="menu-item-3565"
 									class="menu-item menu-item-type-post_type menu-item-object-page">
-									<a href="/">山梨県プレミアム体験プラン</a></li>
+									<a href="/premium/">山梨県プレミアム体験プラン</a></li>
 							</ul>
 						</li>
 						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
 								href="/dantai/"><strong class="gMenu_name">団体ランチ</strong></a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+								href="/izakaya/"><strong class="gMenu_name">宴会・貸切</strong></a></li>
 						<li id="menu-item-2024" class="menu-item menu-item-type-post_type menu-item-object-page"><a
 								href="/voice/"><strong class="gMenu_name">お客様の声・感想</strong></a></li>
 						<li id="menu-item-2025" class="menu-item menu-item-type-post_type menu-item-object-page"><a
